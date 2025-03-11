@@ -32,7 +32,7 @@ The system is built using object-oriented design principles and follows several 
 
 ### Requirements
 
-- JDK 17 or higher
+- JDK 8 or higher
 
 ### Running the Interactive Console
 
