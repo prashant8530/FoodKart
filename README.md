@@ -20,16 +20,6 @@ The system is built using object-oriented design principles and follows several 
 2. **Command Pattern**: For processing user commands
 3. **Factory Pattern**: For creating command objects and strategies
 
-## Java 17 Features Used
-
-This project has been migrated to JDK 17 and uses the following modern Java features:
-
-1. **Text Blocks**: For more readable multi-line strings
-2. **Switch Expressions**: For concise and safer switch statements
-3. **Local Variable Type Inference (var)**: For cleaner code with implicit typing
-4. **Enhanced Stream API**: For functional-style operations on collections
-5. **Try-with-resources Enhancements**: For automatic resource management
-6. **Collection Factory Methods**: For creating immutable collections
 
 ## Project Structure
 
